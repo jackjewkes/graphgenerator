@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jack\\Desktop\\Graph generator\\Github repo\\graphgenerator\\GraphGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF893A1-1622-4ED6-87F6-4F505AE28F58}|GraphGenerator\\GraphGenerator.csproj|c:\\users\\jack\\desktop\\graph generator\\github repo\\graphgenerator\\graphgenerator\\graphgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF893A1-1622-4ED6-87F6-4F505AE28F58}|GraphGenerator\\GraphGenerator.csproj|solutionrelative:graphgenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF893A1-1622-4ED6-87F6-4F505AE28F58}|GraphGenerator\\GraphGenerator.csproj|C:\\Users\\Jack\\Desktop\\Graph generator\\Github repo\\graphgenerator\\GraphGenerator\\graphgenerator\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF893A1-1622-4ED6-87F6-4F505AE28F58}|GraphGenerator\\GraphGenerator.csproj|solutionrelative:graphgenerator\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\Desktop\\Graph generator\\Github repo\\graphgenerator\\GraphGenerator\\GraphGenerator\\Graph.cs",
+              "RelativeDocumentMoniker": "GraphGenerator\\Graph.cs",
+              "ToolTip": "C:\\Users\\Jack\\Desktop\\Graph generator\\Github repo\\graphgenerator\\GraphGenerator\\GraphGenerator\\Graph.cs",
+              "RelativeToolTip": "GraphGenerator\\Graph.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAwwBcAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T09:59:47.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jack\\Desktop\\Graph generator\\Github repo\\graphgenerator\\GraphGenerator\\GraphGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "GraphGenerator\\Program.cs",
+              "ToolTip": "C:\\Users\\Jack\\Desktop\\Graph generator\\Github repo\\graphgenerator\\GraphGenerator\\GraphGenerator\\Program.cs",
+              "RelativeToolTip": "GraphGenerator\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T03:01:43.801Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

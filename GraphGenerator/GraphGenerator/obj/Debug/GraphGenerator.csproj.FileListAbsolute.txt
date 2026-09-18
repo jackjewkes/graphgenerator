@@ -1,0 +1,12 @@
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\bin\Debug\GraphGenerator.exe.config
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\bin\Debug\GraphGenerator.exe
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\bin\Debug\GraphGenerator.pdb
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\obj\Debug\GraphGenerator.csproj.AssemblyReference.cache
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\obj\Debug\GraphGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\obj\Debug\GraphGenerator.exe
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\obj\Debug\GraphGenerator.pdb
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\bin\Debug\bad_graph.txt
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\bin\Debug\graph_surprise.txt
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\bin\Debug\simple_graph_1.txt
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\bin\Debug\simple_graph_2.txt
+C:\Users\Jack\Desktop\Graph generator\Github repo\graphgenerator\GraphGenerator\GraphGenerator\bin\Debug\simple_graph_3.txt
